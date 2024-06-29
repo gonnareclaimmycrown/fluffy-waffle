@@ -1,0 +1,12 @@
+{
+    "object": {
+      "string": "значение типа строка",
+      "number": 23,
+      "inner_array": []
+    },
+    "array": [
+      false,
+      null,
+      {}
+    ]
+  }
